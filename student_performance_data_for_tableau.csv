@@ -1,0 +1,501 @@
+Attendance,PastScores,Participation,StudyHours,ParentEdu,Income,Internet,Result
+78,41,3,9,High School,High,Yes,Fail
+91,91,0,3,High School,High,No,Fail
+68,70,3,17,College,Low,No,Fail
+54,79,6,10,College,Low,No,Fail
+82,54,10,3,None,High,No,Fail
+47,99,3,18,None,Medium,No,Fail
+60,42,5,18,College,Low,No,Fail
+78,50,8,17,College,Low,Yes,Fail
+97,48,0,3,College,Medium,No,Fail
+58,49,4,3,College,Low,No,Fail
+62,66,10,6,None,Medium,Yes,Fail
+50,97,6,13,College,Medium,Yes,Fail
+50,85,0,15,None,Medium,No,Fail
+63,59,3,9,College,High,Yes,Fail
+92,92,5,4,College,High,No,Fail
+75,97,1,14,College,High,Yes,Fail
+79,96,9,5,None,Medium,No,Pass
+63,56,4,2,None,Medium,Yes,Fail
+42,92,10,11,High School,High,Yes,Fail
+61,92,9,9,College,Low,No,Fail
+92,83,0,3,High School,Medium,No,Fail
+41,86,5,9,High School,Low,No,Fail
+63,76,5,3,None,Low,No,Fail
+83,49,3,2,None,Medium,No,Fail
+69,88,7,12,High School,Medium,Yes,Pass
+77,94,3,10,College,Low,No,Fail
+41,42,7,9,None,Low,No,Fail
+99,87,7,15,College,High,Yes,Pass
+60,94,4,8,College,High,Yes,Fail
+72,39,3,5,High School,Medium,No,Fail
+51,40,1,11,High School,High,Yes,Fail
+97,81,10,2,High School,High,Yes,Fail
+61,89,2,15,High School,High,No,Fail
+83,74,2,6,None,High,Yes,Fail
+64,86,3,8,None,Low,Yes,Fail
+88,50,3,5,High School,Medium,No,Fail
+66,47,9,16,None,High,No,Fail
+98,64,10,18,High School,Low,Yes,Pass
+81,53,10,6,College,Low,Yes,Fail
+67,51,4,5,College,Low,No,Fail
+99,97,3,16,College,High,Yes,Fail
+55,53,10,13,High School,High,Yes,Fail
+54,92,9,5,College,Medium,Yes,Fail
+86,89,7,13,None,High,No,Pass
+90,96,5,17,College,High,Yes,Pass
+83,57,5,18,College,Low,Yes,Fail
+94,43,7,8,College,Medium,No,Fail
+91,46,6,13,None,High,Yes,Fail
+96,35,9,19,High School,High,Yes,Fail
+42,92,10,3,None,Low,No,Fail
+76,35,9,8,High School,Low,No,Fail
+90,68,7,2,High School,High,No,Fail
+46,82,1,8,College,Medium,No,Fail
+60,35,8,13,High School,Medium,Yes,Fail
+48,50,0,13,None,Low,Yes,Fail
+78,95,7,1,None,Low,No,Fail
+57,98,10,6,High School,High,No,Fail
+43,97,3,19,College,Low,Yes,Fail
+64,56,3,16,College,High,No,Fail
+99,60,4,8,None,Medium,Yes,Fail
+53,50,7,1,College,Medium,No,Fail
+89,85,4,16,High School,High,Yes,Fail
+97,91,7,9,High School,Low,No,Pass
+48,63,9,13,None,Medium,No,Fail
+65,81,0,11,High School,Low,Yes,Fail
+92,96,9,13,None,Medium,No,Pass
+41,50,8,10,High School,High,Yes,Fail
+59,82,5,4,None,High,Yes,Fail
+67,73,2,6,College,High,Yes,Fail
+86,67,7,7,High School,Medium,Yes,Pass
+99,57,8,5,High School,Low,Yes,Fail
+46,44,5,11,None,Low,No,Fail
+83,68,10,13,None,Low,No,Pass
+47,86,6,19,High School,Medium,Yes,Fail
+86,44,0,10,None,Medium,No,Fail
+74,53,4,10,High School,Medium,Yes,Fail
+53,92,4,11,College,Medium,No,Fail
+56,35,9,7,None,Medium,No,Fail
+75,38,3,18,High School,Low,No,Fail
+89,50,5,4,College,Medium,No,Fail
+79,58,6,2,College,Medium,Yes,Fail
+43,36,8,14,High School,Low,Yes,Fail
+41,66,0,13,None,Medium,No,Fail
+45,58,5,12,High School,Low,No,Fail
+93,46,6,7,College,Low,Yes,Fail
+81,84,2,2,High School,High,No,Fail
+43,69,7,13,None,High,Yes,Fail
+93,67,4,14,College,High,Yes,Fail
+68,67,8,17,High School,High,Yes,Pass
+57,95,4,9,None,Medium,No,Fail
+65,85,8,17,College,High,Yes,Fail
+83,77,9,8,None,Low,No,Pass
+73,46,3,2,College,Medium,Yes,Fail
+49,99,8,13,High School,High,No,Fail
+75,67,4,3,None,Low,No,Fail
+53,74,9,16,College,Medium,No,Fail
+70,77,8,6,None,Medium,Yes,Pass
+87,78,2,19,None,High,Yes,Fail
+54,63,3,7,High School,Medium,No,Fail
+47,47,8,10,None,Low,No,Fail
+53,46,9,9,College,Medium,No,Fail
+62,80,10,2,College,Low,Yes,Fail
+99,36,5,15,College,Medium,Yes,Fail
+96,69,1,5,College,High,Yes,Fail
+79,42,6,4,High School,Low,Yes,Fail
+60,60,1,4,None,Medium,No,Fail
+55,68,10,18,High School,Medium,No,Fail
+84,41,1,4,None,Medium,Yes,Fail
+57,92,10,17,None,Low,Yes,Fail
+86,63,0,12,None,Low,No,Fail
+92,70,10,17,High School,Low,Yes,Pass
+63,55,10,10,None,High,Yes,Fail
+65,70,10,1,High School,High,Yes,Fail
+64,44,2,18,College,Low,Yes,Fail
+99,58,5,18,College,Medium,Yes,Fail
+99,98,7,14,None,High,Yes,Pass
+99,83,8,15,High School,Low,No,Pass
+84,70,6,12,College,Medium,Yes,Pass
+80,58,3,4,High School,High,Yes,Fail
+68,57,5,3,High School,Medium,No,Fail
+54,96,4,12,None,Medium,No,Fail
+84,71,7,7,College,Medium,No,Pass
+40,46,0,11,None,Medium,Yes,Fail
+64,89,0,1,None,High,No,Fail
+46,47,10,6,College,High,Yes,Fail
+48,57,5,15,College,High,Yes,Fail
+63,64,9,15,High School,Low,Yes,Fail
+40,51,1,19,College,High,No,Fail
+83,96,4,11,High School,Medium,No,Fail
+47,47,0,2,High School,High,No,Fail
+63,93,6,14,High School,Medium,No,Fail
+50,53,0,2,College,Low,No,Fail
+90,83,3,4,None,Medium,Yes,Fail
+56,46,8,17,High School,Medium,Yes,Fail
+47,95,0,3,None,Medium,Yes,Fail
+74,53,3,13,None,Low,Yes,Fail
+74,43,5,9,College,High,No,Fail
+72,62,5,7,None,High,No,Pass
+98,86,7,15,None,Low,Yes,Pass
+44,50,0,11,College,Medium,No,Fail
+81,46,6,2,High School,High,No,Fail
+78,59,0,15,None,Low,Yes,Fail
+97,86,6,14,College,High,Yes,Pass
+80,87,2,11,None,Low,No,Fail
+67,57,10,3,None,Medium,No,Fail
+46,50,7,17,High School,High,Yes,Fail
+48,91,2,12,None,Low,Yes,Fail
+47,73,0,15,College,High,Yes,Fail
+51,87,7,16,None,High,No,Fail
+73,76,2,5,High School,High,Yes,Fail
+72,92,1,6,High School,High,Yes,Fail
+87,73,0,19,College,Low,No,Fail
+94,48,2,5,High School,Medium,No,Fail
+62,39,1,3,None,Low,No,Fail
+63,69,1,1,High School,Low,No,Fail
+76,52,5,6,College,Low,No,Fail
+74,43,0,15,High School,Medium,Yes,Fail
+83,92,1,2,High School,High,Yes,Fail
+79,51,5,3,High School,High,No,Fail
+61,41,2,17,College,High,No,Fail
+66,80,3,12,High School,Medium,No,Fail
+74,47,0,18,High School,High,No,Fail
+40,74,7,15,None,Medium,No,Fail
+74,76,6,12,College,High,Yes,Pass
+76,43,6,16,High School,High,Yes,Fail
+86,84,2,8,College,Low,Yes,Fail
+53,61,9,14,High School,Medium,Yes,Fail
+42,39,9,17,High School,Low,No,Fail
+40,63,2,8,High School,Low,Yes,Fail
+44,71,1,15,None,Low,No,Fail
+65,72,0,14,None,Medium,No,Fail
+94,42,6,18,None,Medium,No,Fail
+53,99,6,7,College,High,Yes,Fail
+78,51,1,3,College,Low,No,Fail
+66,79,6,12,None,High,Yes,Pass
+48,38,7,3,College,Low,Yes,Fail
+54,70,0,14,High School,Medium,No,Fail
+54,65,8,15,High School,Medium,No,Fail
+65,53,6,14,High School,Medium,No,Fail
+81,95,2,7,None,Low,Yes,Fail
+99,88,7,17,College,Medium,No,Pass
+52,73,6,12,None,Low,Yes,Fail
+90,53,10,4,College,High,No,Fail
+71,73,7,9,High School,Low,No,Pass
+78,79,5,6,None,High,Yes,Pass
+88,47,8,16,College,Low,Yes,Fail
+91,92,4,2,College,High,Yes,Fail
+71,54,2,8,High School,Medium,Yes,Fail
+43,95,2,11,None,High,Yes,Fail
+69,73,0,13,None,Medium,Yes,Fail
+76,35,7,17,None,Medium,No,Fail
+62,37,1,8,High School,High,No,Fail
+78,96,2,18,None,Low,Yes,Fail
+84,97,7,18,High School,Low,No,Pass
+54,59,7,14,High School,Low,Yes,Fail
+82,90,10,15,High School,Low,No,Pass
+68,67,3,6,College,Low,No,Fail
+75,72,3,11,None,Medium,Yes,Fail
+52,40,4,13,None,Low,Yes,Fail
+71,92,5,1,High School,Medium,Yes,Fail
+46,78,4,6,High School,Medium,No,Fail
+98,79,6,9,None,Medium,Yes,Pass
+90,66,1,8,High School,High,No,Fail
+61,79,6,11,None,High,Yes,Fail
+67,95,9,19,College,Medium,No,Pass
+41,81,6,9,High School,High,No,Fail
+81,55,0,17,None,Low,Yes,Fail
+84,70,6,12,High School,Low,No,Pass
+96,53,4,14,None,Medium,No,Fail
+92,54,2,15,None,Low,Yes,Fail
+45,91,2,16,High School,Medium,No,Fail
+67,52,3,1,College,Medium,Yes,Fail
+67,81,1,10,None,Low,Yes,Fail
+83,83,1,8,None,High,Yes,Fail
+83,48,0,18,None,Low,Yes,Fail
+59,49,4,1,College,Low,No,Fail
+69,65,3,2,College,Medium,No,Fail
+50,35,10,1,High School,Medium,No,Fail
+97,88,9,1,College,Medium,Yes,Fail
+94,37,1,9,High School,Medium,No,Fail
+67,50,2,13,High School,High,No,Fail
+64,91,6,1,College,High,Yes,Fail
+78,46,6,13,High School,High,Yes,Fail
+72,50,3,7,College,Medium,No,Fail
+40,58,4,2,High School,Medium,Yes,Fail
+96,62,4,6,College,Medium,Yes,Fail
+66,42,5,7,College,High,Yes,Fail
+96,70,8,14,High School,Medium,Yes,Pass
+91,42,1,18,None,Low,No,Fail
+52,92,4,15,High School,Low,Yes,Fail
+80,94,2,2,College,Medium,Yes,Fail
+42,84,3,10,None,Low,Yes,Fail
+78,62,9,12,High School,Low,Yes,Pass
+45,75,5,17,High School,High,Yes,Fail
+47,98,7,8,High School,Medium,Yes,Fail
+66,61,0,11,None,Medium,Yes,Fail
+48,97,9,3,College,High,Yes,Fail
+76,51,7,6,High School,Low,No,Fail
+72,67,10,9,High School,Low,Yes,Pass
+90,63,6,6,High School,Medium,No,Pass
+81,47,0,9,High School,Low,Yes,Fail
+83,80,1,7,High School,High,Yes,Fail
+63,69,2,9,College,High,Yes,Fail
+54,40,0,18,College,Medium,Yes,Fail
+98,81,8,12,High School,High,No,Pass
+93,59,7,8,None,High,Yes,Fail
+71,44,1,8,College,Medium,Yes,Fail
+71,90,8,18,None,High,No,Pass
+63,64,6,15,College,High,No,Fail
+80,39,8,7,High School,High,Yes,Fail
+91,67,5,11,College,Low,No,Pass
+88,99,5,16,High School,Medium,No,Pass
+88,52,10,4,College,Medium,No,Fail
+97,83,3,6,High School,Medium,Yes,Fail
+91,45,9,3,High School,Low,Yes,Fail
+51,60,9,9,High School,Low,Yes,Fail
+78,97,1,10,High School,Medium,No,Fail
+41,93,6,14,None,Low,Yes,Fail
+42,61,4,11,High School,Medium,No,Fail
+88,83,10,18,None,Low,Yes,Pass
+76,67,5,12,None,High,Yes,Pass
+88,35,1,12,High School,High,No,Fail
+95,55,4,13,None,Medium,Yes,Fail
+56,89,9,13,College,Low,No,Fail
+98,40,3,19,High School,Low,No,Fail
+88,39,8,19,None,High,Yes,Fail
+41,37,5,14,High School,High,No,Fail
+41,87,1,4,High School,Low,Yes,Fail
+67,57,0,13,High School,Low,Yes,Fail
+93,87,4,8,None,Low,No,Fail
+62,71,8,19,College,Low,Yes,Fail
+76,51,5,12,College,Low,No,Fail
+71,35,9,18,None,Low,Yes,Fail
+72,85,6,6,High School,Medium,Yes,Pass
+40,79,4,18,None,Low,Yes,Fail
+58,38,9,19,None,High,Yes,Fail
+41,96,5,5,None,Medium,Yes,Fail
+92,99,4,9,High School,Low,No,Fail
+83,66,10,3,None,High,No,Fail
+65,68,8,10,High School,Medium,No,Fail
+71,73,5,19,None,High,No,Pass
+45,60,10,3,College,Low,No,Fail
+71,68,7,15,None,Low,No,Pass
+94,88,1,1,None,Low,Yes,Fail
+43,37,8,7,College,Low,Yes,Fail
+94,84,4,12,High School,Medium,No,Fail
+50,46,6,17,High School,Medium,No,Fail
+95,99,9,5,None,High,Yes,Pass
+98,88,0,4,College,Low,Yes,Fail
+56,39,9,12,High School,High,Yes,Fail
+77,91,4,18,None,Medium,No,Fail
+63,51,9,17,College,Low,No,Fail
+44,81,1,19,High School,Low,No,Fail
+91,57,5,9,High School,Medium,Yes,Fail
+73,48,10,4,College,Medium,Yes,Fail
+45,85,0,2,College,Medium,No,Fail
+61,72,2,4,College,Medium,No,Fail
+50,98,4,2,College,Medium,Yes,Fail
+87,72,3,15,None,Low,Yes,Fail
+55,84,2,2,College,Medium,Yes,Fail
+72,64,9,4,High School,Low,Yes,Fail
+48,85,4,6,High School,Low,No,Fail
+99,97,10,7,None,Medium,Yes,Pass
+98,86,7,10,High School,Medium,Yes,Pass
+45,72,10,19,High School,Low,Yes,Fail
+55,64,3,19,College,Medium,No,Fail
+68,85,0,12,High School,Medium,No,Fail
+42,39,10,3,None,Medium,Yes,Fail
+59,63,6,13,College,High,Yes,Fail
+99,38,7,18,College,Low,Yes,Fail
+98,44,2,8,None,High,No,Fail
+75,90,5,15,College,Medium,No,Pass
+58,51,1,1,College,High,No,Fail
+65,51,6,3,None,Medium,Yes,Fail
+42,68,7,8,College,High,No,Fail
+58,40,5,4,None,Medium,Yes,Fail
+59,87,5,16,None,High,Yes,Fail
+71,77,4,10,High School,High,Yes,Fail
+46,57,7,12,High School,High,No,Fail
+91,89,0,14,College,Low,Yes,Fail
+80,50,9,14,College,High,No,Fail
+72,42,3,2,None,Low,No,Fail
+79,38,3,5,College,Medium,Yes,Fail
+78,38,2,5,None,High,Yes,Fail
+57,90,2,6,None,Medium,No,Fail
+79,59,3,13,College,Medium,Yes,Fail
+40,61,10,9,None,High,No,Fail
+50,66,0,15,High School,Low,Yes,Fail
+67,84,10,14,College,High,No,Pass
+96,95,10,7,High School,Medium,No,Pass
+64,85,1,2,College,Medium,No,Fail
+89,53,8,7,None,High,No,Fail
+62,55,9,6,College,Low,Yes,Fail
+70,39,1,17,High School,Low,Yes,Fail
+69,76,4,2,None,Medium,No,Fail
+81,95,8,3,College,Medium,No,Fail
+74,56,8,5,College,Low,Yes,Fail
+46,55,7,5,College,High,Yes,Fail
+99,35,0,1,High School,Medium,Yes,Fail
+55,39,0,8,High School,Low,Yes,Fail
+65,46,8,12,College,Medium,Yes,Fail
+87,80,10,4,None,High,Yes,Fail
+96,68,7,13,None,Low,No,Pass
+91,83,9,15,High School,Medium,Yes,Pass
+99,79,8,11,None,High,Yes,Pass
+88,61,6,10,High School,Medium,No,Pass
+41,60,2,3,College,High,Yes,Fail
+40,81,2,14,High School,High,Yes,Fail
+87,90,1,16,High School,Low,Yes,Fail
+51,97,4,10,College,High,Yes,Fail
+44,82,2,10,None,Medium,Yes,Fail
+76,95,5,12,High School,High,No,Pass
+71,60,1,9,High School,High,Yes,Fail
+98,70,2,1,College,Low,No,Fail
+94,35,4,5,None,High,No,Fail
+48,42,10,8,High School,High,Yes,Fail
+80,86,10,11,College,Medium,No,Pass
+74,81,0,12,High School,Low,Yes,Fail
+58,90,0,1,College,Low,No,Fail
+87,48,9,11,None,Low,No,Fail
+55,62,8,5,None,High,Yes,Fail
+42,36,6,15,None,Low,Yes,Fail
+59,60,0,5,None,High,Yes,Fail
+63,48,7,12,High School,High,Yes,Fail
+93,93,2,5,High School,Medium,Yes,Fail
+95,90,7,17,None,Medium,No,Pass
+72,41,4,17,None,Medium,No,Fail
+63,37,0,12,None,Medium,No,Fail
+91,57,6,15,High School,Medium,No,Fail
+50,52,4,15,None,High,No,Fail
+88,72,5,6,None,High,No,Pass
+47,49,5,12,None,Low,No,Fail
+75,98,7,18,College,High,Yes,Pass
+77,62,8,14,None,High,Yes,Pass
+79,73,1,2,College,Medium,No,Fail
+59,91,8,9,College,High,No,Fail
+74,51,10,5,None,Medium,Yes,Fail
+87,78,9,1,College,Low,Yes,Fail
+64,59,8,3,None,Low,Yes,Fail
+74,51,9,6,High School,High,Yes,Fail
+64,47,9,5,High School,Low,No,Fail
+68,59,6,5,High School,High,Yes,Fail
+57,44,0,1,High School,Low,No,Fail
+85,52,6,17,College,Medium,No,Fail
+57,68,9,19,None,Medium,No,Fail
+41,42,4,14,None,Medium,Yes,Fail
+93,74,5,12,None,Medium,Yes,Pass
+74,76,9,10,High School,High,No,Pass
+55,75,6,18,High School,Low,No,Fail
+80,40,4,11,None,High,No,Fail
+75,86,6,2,High School,Medium,Yes,Fail
+72,60,8,18,None,High,No,Fail
+43,98,2,7,None,Low,Yes,Fail
+72,93,7,15,None,High,No,Pass
+53,90,1,11,None,Low,No,Fail
+60,93,10,18,None,High,No,Fail
+87,67,6,12,None,Low,Yes,Pass
+59,87,1,6,None,Low,Yes,Fail
+95,56,3,13,High School,Medium,No,Fail
+47,55,6,16,None,Low,Yes,Fail
+46,38,2,18,None,Medium,No,Fail
+42,96,1,10,High School,Medium,Yes,Fail
+56,96,10,8,High School,Medium,Yes,Fail
+72,58,9,18,High School,High,Yes,Fail
+87,89,6,1,None,High,No,Fail
+51,43,0,8,College,High,Yes,Fail
+98,37,7,6,College,High,Yes,Fail
+90,65,2,5,High School,Low,No,Fail
+61,74,1,15,College,Low,No,Fail
+94,70,2,15,High School,High,No,Fail
+61,58,4,2,None,Low,No,Fail
+85,40,10,1,College,Low,Yes,Fail
+69,38,7,11,None,Medium,Yes,Fail
+77,40,9,10,College,Medium,Yes,Fail
+77,85,6,18,None,Medium,Yes,Pass
+84,96,6,18,College,Medium,Yes,Pass
+90,91,6,17,None,Low,No,Pass
+93,42,7,8,None,High,Yes,Fail
+47,60,0,15,College,Low,Yes,Fail
+66,85,3,8,None,Low,Yes,Fail
+66,79,5,17,None,Low,No,Pass
+73,78,8,12,None,Medium,No,Pass
+60,39,1,8,College,Medium,Yes,Fail
+69,60,0,14,College,Medium,No,Fail
+72,53,9,4,None,High,No,Fail
+67,54,1,1,None,Low,No,Fail
+86,46,6,1,College,High,No,Fail
+72,81,2,19,College,Medium,No,Fail
+44,35,9,16,None,High,No,Fail
+99,48,1,14,None,Low,No,Fail
+87,98,10,16,None,Low,Yes,Pass
+58,72,6,5,High School,Medium,Yes,Fail
+43,71,1,9,College,Medium,No,Fail
+74,45,2,2,High School,High,Yes,Fail
+88,37,10,18,College,Medium,Yes,Fail
+56,67,6,6,College,Medium,No,Fail
+83,40,3,9,College,Low,Yes,Fail
+67,84,0,1,College,Medium,No,Fail
+69,44,4,9,College,Medium,No,Fail
+68,39,8,16,College,Low,No,Fail
+85,57,7,13,College,Low,Yes,Fail
+92,44,8,9,High School,High,Yes,Fail
+45,78,9,13,None,Medium,Yes,Fail
+74,36,8,9,None,Low,Yes,Fail
+99,47,6,11,High School,High,No,Fail
+80,74,3,4,High School,High,No,Fail
+76,36,4,2,High School,Medium,Yes,Fail
+63,99,0,6,High School,Medium,No,Fail
+68,97,0,14,College,High,No,Fail
+88,51,2,4,None,Low,Yes,Fail
+85,43,7,6,College,High,No,Fail
+92,49,1,19,None,Medium,Yes,Fail
+70,58,3,6,None,Low,No,Fail
+74,72,1,2,High School,Low,Yes,Fail
+99,69,4,18,College,High,No,Fail
+72,83,8,13,High School,Medium,No,Pass
+91,96,0,9,College,High,Yes,Fail
+60,94,4,19,None,High,Yes,Fail
+71,84,8,13,High School,High,Yes,Pass
+62,43,0,11,High School,Low,Yes,Fail
+72,68,8,1,None,Low,No,Fail
+42,69,7,7,None,Medium,No,Fail
+57,35,3,15,None,Medium,Yes,Fail
+64,74,10,1,High School,High,No,Fail
+81,98,9,12,College,High,Yes,Pass
+70,56,4,7,High School,High,Yes,Fail
+93,94,4,15,College,Medium,No,Fail
+97,98,10,19,High School,Low,No,Pass
+42,45,5,1,High School,Low,Yes,Fail
+79,48,6,17,None,High,Yes,Fail
+85,94,7,17,College,High,Yes,Pass
+63,64,7,3,High School,High,No,Fail
+89,69,10,12,High School,High,No,Pass
+71,71,1,6,None,Medium,No,Fail
+86,39,8,11,None,Low,No,Fail
+61,60,6,3,College,High,Yes,Fail
+62,96,3,8,High School,Medium,Yes,Fail
+41,38,3,14,College,High,Yes,Fail
+66,76,10,14,High School,High,Yes,Pass
+81,52,7,10,College,Low,Yes,Fail
+41,74,3,2,None,High,Yes,Fail
+65,73,5,14,High School,Low,No,Fail
+56,48,4,9,College,Low,No,Fail
+79,66,2,3,None,Low,Yes,Fail
+72,85,9,8,None,Medium,Yes,Pass
+48,72,10,16,College,Medium,No,Fail
+82,57,1,2,High School,Low,No,Fail
+93,97,8,6,High School,High,No,Pass
+87,49,9,12,None,Low,No,Fail
+78,59,8,5,High School,High,Yes,Fail
+68,51,0,2,High School,Low,Yes,Fail
+81,87,9,16,High School,High,Yes,Pass
+94,85,2,5,None,Medium,Yes,Fail
+65,73,7,15,College,High,Yes,Fail
+74,85,5,12,High School,Low,No,Pass
+89,40,4,4,None,Medium,Yes,Fail
+64,41,4,15,None,High,No,Fail
+63,85,5,11,College,High,Yes,Fail
+52,76,6,16,High School,High,Yes,Fail
+99,98,0,6,High School,High,Yes,Fail
